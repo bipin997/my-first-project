@@ -1,4 +1,4 @@
-# my-first-project
+# My-first-project
 #include<stdio.h>
 void main()
 {
