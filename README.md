@@ -1,5 +1,5 @@
 # My-first-project
-#include<std.io.h>
+#includ e<std.io.h>
 void main()
 {
 printf("hello wrld");
