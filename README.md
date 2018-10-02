@@ -1,5 +1,5 @@
 # My-first-project
-#include<stdio.h>
+#include<std.io.h>
 void main()
 {
 printf("hello wrld");
