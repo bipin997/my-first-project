@@ -1,4 +1,4 @@
 
-printf("hello wrld")o
+printf("hello wrld")
 }
 }
